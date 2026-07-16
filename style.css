@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+background-attachment: scroll;
+height: 2971px;
+}
