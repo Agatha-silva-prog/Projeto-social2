@@ -5,7 +5,11 @@
 }
 body{
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 background-attachment: scroll;
 height: 2971px;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
 }
